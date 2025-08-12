@@ -1,1 +1,7 @@
+/Users/quentinlataste/Documents/GitHub/Holberton_portfolioProject/backend/src/main/java/com/portfolio/model/User.java
+/Users/quentinlataste/Documents/GitHub/Holberton_portfolioProject/backend/src/main/java/com/portfolio/repository/UserRepository.java
+/Users/quentinlataste/Documents/GitHub/Holberton_portfolioProject/backend/src/main/java/com/portfolio/config/SecurityConfig.java
+/Users/quentinlataste/Documents/GitHub/Holberton_portfolioProject/backend/src/main/java/com/portfolio/controller/ApiController.java
 /Users/quentinlataste/Documents/GitHub/Holberton_portfolioProject/backend/src/main/java/com/portfolio/Application.java
+/Users/quentinlataste/Documents/GitHub/Holberton_portfolioProject/backend/src/main/java/com/portfolio/controller/UserController.java
+/Users/quentinlataste/Documents/GitHub/Holberton_portfolioProject/backend/src/main/java/com/portfolio/service/UserService.java

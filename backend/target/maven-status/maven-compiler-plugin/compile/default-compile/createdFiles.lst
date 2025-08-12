@@ -1,1 +1,7 @@
-main/java/com/portfolio/Application.class
+com/portfolio/config/SecurityConfig.class
+com/portfolio/controller/ApiController.class
+com/portfolio/model/User.class
+com/portfolio/controller/UserController.class
+com/portfolio/Application.class
+com/portfolio/repository/UserRepository.class
+com/portfolio/service/UserService.class
